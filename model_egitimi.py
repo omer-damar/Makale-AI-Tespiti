@@ -31,7 +31,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.20, random_state=42
 )
 
-# 4️⃣ 3 FARKLI MODEL EĞİT
+# 4️⃣ 3 FARKLI MODEL EGİT
 
 # --- Naive Bayes ---
 print("📘 Naive Bayes eğitiliyor…")
